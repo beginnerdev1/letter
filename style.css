@@ -31,7 +31,7 @@ body {
 }
 
 .heart > img {
-	width: 50px;
+	width: 70px;
 	height: auto;
 }
 h1{
@@ -80,25 +80,25 @@ p{
 
 @keyframes beat {
 	0% {
-		width: 50px;
+		width: 70px;
 	}
 	25% {
 		width: 58px;
 	}
 	30% {
-		width: 50px;
+		width: 70px;
 	}
 	50% {
 		width: 45px;
 	}
 	60% {
-		width: 50px;
+		width: 70px;
 	}
 	75% {
 		width: 58px;
 	}
 	100% {
-		width: 50px;
+		width: 70px;
 	}
 }
 
